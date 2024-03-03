@@ -10,12 +10,13 @@ function Contact() {
                     <h1 class="text-4xl sm:text-5xl text-white">
                         Contact <span>Me</span>
                     </h1>
+                    
                     <p class="text-normal text-lg text-gray-400 mt-2"> 
                         Contact Me for more details
                     </p>
 
                     <div class="flex items-center mt-2 text-gray-400">
-                        <div class="ml-4 text-md tracking-wide w-40">
+                        <div class="text-md tracking-wide w-40">
                             <p>Jérémy I.</p>
                         </div>
                     </div>
