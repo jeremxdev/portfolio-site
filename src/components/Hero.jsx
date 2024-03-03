@@ -24,9 +24,8 @@ const Hero = () => {
                     <p className='md:text-5xl sm:text-4xl text-xl font-bold text-gray-500'>with a 2+ years experience</p>
                 </div>
                 <div className='text-5xl flex justify-start gap-16 my-7 text-purple-600'>
-                    <AiFillLinkedin />
-                    <AiFillGithub />
-                    <AiFillInstagram />
+                    <a href="https://github.com/jeremxdev/"><AiFillGithub /></a>
+                    <a href="https://instagram.com/jeremx.dev"><AiFillInstagram /></a>
                 </div>
                 <div class="relative inline-flex group my-3">
                     <div class="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r
