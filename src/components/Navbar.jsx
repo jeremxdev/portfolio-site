@@ -13,8 +13,8 @@ const Navbar = () => {
 
             <h1 className='text-3xl font-bold primary-color ml-4'>Jérémy I.</h1>
             <ul className='hidden md:flex'>
-                <li className='p-5'><a href="#about" className='hover:text-white animation duration-500'>About</a></li>
                 <li className='p-5'><a href="#home" className='hover:text-white animation duration-500'>Home</a></li>
+                <li className='p-5'><a href="#about" className='hover:text-white animation duration-500'>About</a></li>
                 {/*<li className='p-5'><a href="#work" className='hover:text-white animation duration-500'>Work</a></li>*/}
                 <li className='p-5'><a href="#experience" className='hover:text-white animation duration-500'>Experience</a></li>
                 <li className='p-5'><a href="#contact" className='hover:text-white animation duration-500'>Contact</a></li>
@@ -27,8 +27,8 @@ const Navbar = () => {
             <div className={nav ? 'z-10 text-gray-300 fixed h-full left-0 top-0 w-[60%] bg-[#202121] ease-in-out duration-500' : 'fixed left-[-100%]'}>
                 <h1 className='text-3xl primary-color m-4'>Jérémy I.</h1>
                 <ul className='p-8 text-2xl'>
-                    <li className='p-5'><a href="#about" className='hover:text-white animation duration-500'>About</a></li>
                     <li className='p-5'><a href="#home" className='hover:text-white animation duration-500'>Home</a></li>
+                    <li className='p-5'><a href="#about" className='hover:text-white animation duration-500'>About</a></li>
                     {/*<li className='p-5'><a href="#work" className='hover:text-white animation duration-500'>Work</a></li>*/}
                     <li className='p-5'><a href="#experience" className='hover:text-white animation duration-500'>Experience</a></li>
                     <li className='p-5'><a href="#contact" className='hover:text-white animation duration-500'>Contact</a></li>
