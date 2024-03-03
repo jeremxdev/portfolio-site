@@ -27,11 +27,11 @@ const Navbar = () => {
             <div className={nav ? 'z-10 text-gray-300 fixed h-full left-0 top-0 w-[60%] bg-[#202121] ease-in-out duration-500' : 'fixed left-[-100%]'}>
                 <h1 className='text-3xl primary-color m-4'>Jérémy I.</h1>
                 <ul className='p-8 text-2xl'>
-                <li className='p-2'><a href="#home">Home</a></li>
-                <li className='p-2'><a href="#about">About</a></li>
-                <li className='p-2'><a href="#work">Work</a></li>
-                <li className='p-2'><a href="#experience">Experience</a></li>
-                <li className='p-2'><a href="#contact">Contact</a></li>
+                    <li className='p-2'><a href="#home">Home</a></li>
+                    <li className='p-2'><a href="#about">About</a></li>
+                    <li className='p-2'><a href="#work">Work</a></li>
+                    <li className='p-2'><a href="#experience">Experience</a></li>
+                    <li className='p-2'><a href="#contact">Contact</a></li>
                 </ul>
             </div>
         </div>
