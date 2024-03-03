@@ -31,7 +31,7 @@ function Contact() {
                     </div>
                     
                     <div class="flex flex-col mt-2">
-                        <textarea type="message" name="name" id="name" placeholder="Full Name" class="w-100 max-h-[200px] mt-2 py-3 px-3 rounded-lg bg-gray-800 border border-gray-700 text-white"></textarea>
+                        <textarea type="message" name="name" id="name" placeholder="Message" class="w-100 max-h-[200px] mt-2 py-3 px-3 rounded-lg bg-gray-800 border border-gray-700 text-white"></textarea>
                     </div>
                     
                     <button type="submit" class="bg-gradient-to-r from-[#44BCFF] to-[#FF44EC] animation duration-500 text-white py-3 px-6 rounded-lg mt-3">
