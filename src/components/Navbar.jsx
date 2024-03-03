@@ -15,7 +15,7 @@ const Navbar = () => {
             <ul className='hidden md:flex'>
                 <li className='p-5'><a href="#about" className='hover:text-white animation duration-500'>About</a></li>
                 <li className='p-5'><a href="#home" className='hover:text-white animation duration-500'>Home</a></li>
-                <li className='p-5'><a href="#work" className='hover:text-white animation duration-500'>Work</a></li>
+                {/*<li className='p-5'><a href="#work" className='hover:text-white animation duration-500'>Work</a></li>*/}
                 <li className='p-5'><a href="#experience" className='hover:text-white animation duration-500'>Experience</a></li>
                 <li className='p-5'><a href="#contact" className='hover:text-white animation duration-500'>Contact</a></li>
             </ul>
@@ -29,7 +29,7 @@ const Navbar = () => {
                 <ul className='p-8 text-2xl'>
                     <li className='p-5'><a href="#about" className='hover:text-white animation duration-500'>About</a></li>
                     <li className='p-5'><a href="#home" className='hover:text-white animation duration-500'>Home</a></li>
-                    <li className='p-5'><a href="#work" className='hover:text-white animation duration-500'>Work</a></li>
+                    {/*<li className='p-5'><a href="#work" className='hover:text-white animation duration-500'>Work</a></li>*/}
                     <li className='p-5'><a href="#experience" className='hover:text-white animation duration-500'>Experience</a></li>
                     <li className='p-5'><a href="#contact" className='hover:text-white animation duration-500'>Contact</a></li>
                 </ul>
