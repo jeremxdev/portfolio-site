@@ -33,7 +33,7 @@ const Hero = () => {
                     group-hover:-inset-1 group-hover:duration-200">
                     </div>
                     <a target="_blank" href="https://docs.google.com/document/d/1rUwm89BGwVYCd_UwrRxBgNzCZuIlYLS0pp-EJspoDaE/edit?usp=sharing" title="Download CV" role="button"
-                        class="border w-[190px] h-[60px] relative inline-flex items-center justify-center px-8 py-4 text-lg
+                        class="border w-[220px] h-[75px] relative inline-flex items-center justify-center px-8 py-4 text-lg
                             font-bold text-white transition-all duration-200 bg-primary-color font-pj rounded-xl
                             focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">Download CV
                     </a>
